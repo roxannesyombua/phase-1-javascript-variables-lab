@@ -120,7 +120,7 @@ code that will have this first test pass if `companyName` equals `Scuber` and
 fail if it does not.
 
 Don't worry too much yet if it's hard to understand what is happening inside of
-the `test/indexTest.js` file. But it's a good idea to open up the file, and
+the `test/indexTest.js` file. But it's a good idea to open up the file, and]
 gather the information that you can. We will also provide instructions in the
 `README.md` file that will allow you to complete the lab.
 
